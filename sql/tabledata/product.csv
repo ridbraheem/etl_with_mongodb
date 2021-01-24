@@ -1,0 +1,398 @@
+﻿ProductID,ProductName,Color,SubCategoryID
+210,"HL Road Frame - Black, 58",Black,14
+211,"HL Road Frame - Red, 58",Red,14
+212,"Sport-100 Helmet, Red",Red,31
+213,"Sport-100 Helmet, Red",Red,31
+214,"Sport-100 Helmet, Red",Red,31
+215,"Sport-100 Helmet, Black",Black,31
+216,"Sport-100 Helmet, Black",Black,31
+217,"Sport-100 Helmet, Black",Black,31
+218,"Mountain Bike Socks, M",White,23
+219,"Mountain Bike Socks, L",White,23
+220,"Sport-100 Helmet, Blue",Blue,31
+221,"Sport-100 Helmet, Blue",Blue,31
+222,"Sport-100 Helmet, Blue",Blue,31
+223,AWC Logo Cap,Multi,19
+224,AWC Logo Cap,Multi,19
+225,AWC Logo Cap,Multi,19
+226,"Long-Sleeve Logo Jersey, S",Multi,21
+227,"Long-Sleeve Logo Jersey, S",Multi,21
+228,"Long-Sleeve Logo Jersey, S",Multi,21
+229,"Long-Sleeve Logo Jersey, M",Multi,21
+230,"Long-Sleeve Logo Jersey, M",Multi,21
+231,"Long-Sleeve Logo Jersey, M",Multi,21
+232,"Long-Sleeve Logo Jersey, L",Multi,21
+233,"Long-Sleeve Logo Jersey, L",Multi,21
+234,"Long-Sleeve Logo Jersey, L",Multi,21
+235,"Long-Sleeve Logo Jersey, XL",Multi,21
+236,"Long-Sleeve Logo Jersey, XL",Multi,21
+237,"Long-Sleeve Logo Jersey, XL",Multi,21
+238,"HL Road Frame - Red, 62",Red,14
+239,"HL Road Frame - Red, 62",Red,14
+240,"HL Road Frame - Red, 62",Red,14
+241,"HL Road Frame - Red, 44",Red,14
+242,"HL Road Frame - Red, 44",Red,14
+243,"HL Road Frame - Red, 44",Red,14
+244,"HL Road Frame - Red, 48",Red,14
+245,"HL Road Frame - Red, 48",Red,14
+246,"HL Road Frame - Red, 48",Red,14
+247,"HL Road Frame - Red, 52",Red,14
+248,"HL Road Frame - Red, 52",Red,14
+249,"HL Road Frame - Red, 52",Red,14
+250,"HL Road Frame - Red, 56",Red,14
+251,"HL Road Frame - Red, 56",Red,14
+252,"HL Road Frame - Red, 56",Red,14
+253,"LL Road Frame - Black, 58",Black,14
+254,"LL Road Frame - Black, 58",Black,14
+255,"LL Road Frame - Black, 58",Black,14
+256,"LL Road Frame - Black, 60",Black,14
+257,"LL Road Frame - Black, 60",Black,14
+258,"LL Road Frame - Black, 60",Black,14
+259,"LL Road Frame - Black, 62",Black,14
+260,"LL Road Frame - Black, 62",Black,14
+261,"LL Road Frame - Black, 62",Black,14
+262,"LL Road Frame - Red, 44",Red,14
+263,"LL Road Frame - Red, 44",Red,14
+264,"LL Road Frame - Red, 48",Red,14
+265,"LL Road Frame - Red, 48",Red,14
+266,"LL Road Frame - Red, 52",Red,14
+267,"LL Road Frame - Red, 52",Red,14
+268,"LL Road Frame - Red, 58",Red,14
+269,"LL Road Frame - Red, 58",Red,14
+270,"LL Road Frame - Red, 60",Red,14
+271,"LL Road Frame - Red, 60",Red,14
+272,"LL Road Frame - Red, 62",Red,14
+273,"LL Road Frame - Red, 62",Red,14
+274,"ML Road Frame - Red, 44",Red,14
+275,"ML Road Frame - Red, 48",Red,14
+276,"ML Road Frame - Red, 52",Red,14
+277,"ML Road Frame - Red, 58",Red,14
+278,"ML Road Frame - Red, 60",Red,14
+279,"LL Road Frame - Black, 44",Black,14
+280,"LL Road Frame - Black, 44",Black,14
+281,"LL Road Frame - Black, 44",Black,14
+282,"LL Road Frame - Black, 48",Black,14
+283,"LL Road Frame - Black, 48",Black,14
+284,"LL Road Frame - Black, 48",Black,14
+285,"LL Road Frame - Black, 52",Black,14
+286,"LL Road Frame - Black, 52",Black,14
+287,"LL Road Frame - Black, 52",Black,14
+288,"HL Mountain Frame - Silver, 42",Silver,12
+289,"HL Mountain Frame - Silver, 42",Silver,12
+290,"HL Mountain Frame - Silver, 42",Silver,12
+291,"HL Mountain Frame - Silver, 44",Silver,12
+292,"HL Mountain Frame - Silver, 48",Silver,12
+293,"HL Mountain Frame - Silver, 46",Silver,12
+294,"HL Mountain Frame - Silver, 46",Silver,12
+295,"HL Mountain Frame - Silver, 46",Silver,12
+296,"HL Mountain Frame - Black, 42",Black,12
+297,"HL Mountain Frame - Black, 42",Black,12
+298,"HL Mountain Frame - Black, 42",Black,12
+299,"HL Mountain Frame - Black, 44",Black,12
+300,"HL Mountain Frame - Black, 48",Black,12
+301,"HL Mountain Frame - Black, 46",Black,12
+302,"HL Mountain Frame - Black, 46",Black,12
+303,"HL Mountain Frame - Black, 46",Black,12
+304,"HL Mountain Frame - Black, 38",Black,12
+305,"HL Mountain Frame - Black, 38",Black,12
+306,"HL Mountain Frame - Black, 38",Black,12
+307,"HL Mountain Frame - Silver, 38",Silver,12
+308,"HL Mountain Frame - Silver, 38",Silver,12
+309,"HL Mountain Frame - Silver, 38",Silver,12
+310,"Road-150 Red, 62",Red,2
+311,"Road-150 Red, 44",Red,2
+312,"Road-150 Red, 48",Red,2
+313,"Road-150 Red, 52",Red,2
+314,"Road-150 Red, 56",Red,2
+315,"Road-450 Red, 58",Red,2
+316,"Road-450 Red, 60",Red,2
+317,"Road-450 Red, 44",Red,2
+318,"Road-450 Red, 48",Red,2
+319,"Road-450 Red, 52",Red,2
+320,"Road-650 Red, 58",Red,2
+321,"Road-650 Red, 58",Red,2
+322,"Road-650 Red, 60",Red,2
+323,"Road-650 Red, 60",Red,2
+324,"Road-650 Red, 62",Red,2
+325,"Road-650 Red, 62",Red,2
+326,"Road-650 Red, 44",Red,2
+327,"Road-650 Red, 44",Red,2
+328,"Road-650 Red, 48",Red,2
+329,"Road-650 Red, 48",Red,2
+330,"Road-650 Red, 52",Red,2
+331,"Road-650 Red, 52",Red,2
+332,"Road-650 Black, 58",Black,2
+333,"Road-650 Black, 58",Black,2
+334,"Road-650 Black, 60",Black,2
+335,"Road-650 Black, 60",Black,2
+336,"Road-650 Black, 62",Black,2
+337,"Road-650 Black, 62",Black,2
+338,"Road-650 Black, 44",Black,2
+339,"Road-650 Black, 44",Black,2
+340,"Road-650 Black, 48",Black,2
+341,"Road-650 Black, 48",Black,2
+342,"Road-650 Black, 52",Black,2
+343,"Road-650 Black, 52",Black,2
+344,"Mountain-100 Silver, 38",Silver,1
+345,"Mountain-100 Silver, 42",Silver,1
+346,"Mountain-100 Silver, 44",Silver,1
+347,"Mountain-100 Silver, 48",Silver,1
+348,"Mountain-100 Black, 38",Black,1
+349,"Mountain-100 Black, 42",Black,1
+350,"Mountain-100 Black, 44",Black,1
+351,"Mountain-100 Black, 48",Black,1
+352,"Mountain-200 Silver, 38",Silver,1
+353,"Mountain-200 Silver, 38",Silver,1
+354,"Mountain-200 Silver, 42",Silver,1
+355,"Mountain-200 Silver, 42",Silver,1
+356,"Mountain-200 Silver, 46",Silver,1
+357,"Mountain-200 Silver, 46",Silver,1
+358,"Mountain-200 Black, 38",Black,1
+359,"Mountain-200 Black, 38",Black,1
+360,"Mountain-200 Black, 42",Black,1
+361,"Mountain-200 Black, 42",Black,1
+362,"Mountain-200 Black, 46",Black,1
+363,"Mountain-200 Black, 46",Black,1
+364,"Mountain-300 Black, 38",Black,1
+365,"Mountain-300 Black, 40",Black,1
+366,"Mountain-300 Black, 44",Black,1
+367,"Mountain-300 Black, 48",Black,1
+368,"Road-250 Red, 44",Red,2
+369,"Road-250 Red, 48",Red,2
+370,"Road-250 Red, 52",Red,2
+371,"Road-250 Red, 58",Red,2
+372,"Road-250 Red, 58",Red,2
+373,"Road-250 Black, 44",Black,2
+374,"Road-250 Black, 44",Black,2
+375,"Road-250 Black, 48",Black,2
+376,"Road-250 Black, 48",Black,2
+377,"Road-250 Black, 52",Black,2
+378,"Road-250 Black, 52",Black,2
+379,"Road-250 Black, 58",Black,2
+380,"Road-250 Black, 58",Black,2
+381,"Road-550-W Yellow, 38",Yellow,2
+382,"Road-550-W Yellow, 38",Yellow,2
+383,"Road-550-W Yellow, 40",Yellow,2
+384,"Road-550-W Yellow, 40",Yellow,2
+385,"Road-550-W Yellow, 42",Yellow,2
+386,"Road-550-W Yellow, 42",Yellow,2
+387,"Road-550-W Yellow, 44",Yellow,2
+388,"Road-550-W Yellow, 44",Yellow,2
+389,"Road-550-W Yellow, 48",Yellow,2
+390,"Road-550-W Yellow, 48",Yellow,2
+391,LL Fork,NA,10
+392,ML Fork,NA,10
+393,HL Fork,NA,10
+394,LL Headset,NA,11
+395,ML Headset,NA,11
+396,HL Headset,NA,11
+397,LL Mountain Handlebars,NA,4
+398,LL Mountain Handlebars,NA,4
+399,ML Mountain Handlebars,NA,4
+400,ML Mountain Handlebars,NA,4
+401,HL Mountain Handlebars,NA,4
+402,HL Mountain Handlebars,NA,4
+403,LL Road Handlebars,NA,4
+404,LL Road Handlebars,NA,4
+405,ML Road Handlebars,NA,4
+406,ML Road Handlebars,NA,4
+407,HL Road Handlebars,NA,4
+408,HL Road Handlebars,NA,4
+409,"ML Mountain Frame - Black, 38",Black,12
+410,LL Mountain Front Wheel,Black,17
+411,ML Mountain Front Wheel,Black,17
+412,HL Mountain Front Wheel,Black,17
+413,LL Road Front Wheel,Black,17
+414,ML Road Front Wheel,Black,17
+415,HL Road Front Wheel,Black,17
+416,Touring Front Wheel,Black,17
+417,"ML Road Frame-W - Yellow, 38",Yellow,14
+418,"ML Road Frame-W - Yellow, 38",Yellow,14
+419,LL Mountain Rear Wheel,Black,17
+420,ML Mountain Rear Wheel,Black,17
+421,HL Mountain Rear Wheel,Black,17
+422,LL Road Rear Wheel,Black,17
+423,ML Road Rear Wheel,Black,17
+424,HL Road Rear Wheel,Black,17
+425,Touring Rear Wheel,Black,17
+426,"ML Mountain Frame - Black, 40",Black,12
+427,"ML Mountain Frame - Black, 44",Black,12
+428,"ML Mountain Frame - Black, 48",Black,12
+429,"ML Road Frame-W - Yellow, 40",Yellow,14
+430,"ML Road Frame-W - Yellow, 40",Yellow,14
+431,"ML Road Frame-W - Yellow, 42",Yellow,14
+432,"ML Road Frame-W - Yellow, 42",Yellow,14
+433,"ML Road Frame-W - Yellow, 44",Yellow,14
+434,"ML Road Frame-W - Yellow, 44",Yellow,14
+435,"ML Road Frame-W - Yellow, 48",Yellow,14
+436,"ML Road Frame-W - Yellow, 48",Yellow,14
+437,"HL Road Frame - Black, 62",Black,14
+438,"HL Road Frame - Black, 62",Black,14
+439,"HL Road Frame - Black, 44",Black,14
+440,"HL Road Frame - Black, 44",Black,14
+441,"HL Road Frame - Black, 48",Black,14
+442,"HL Road Frame - Black, 48",Black,14
+443,"HL Road Frame - Black, 52",Black,14
+444,"HL Road Frame - Black, 52",Black,14
+445,"Men's Sports Shorts, S",Black,22
+446,"Touring-Panniers, Large",Grey,35
+447,Cable Lock,NA,34
+448,Minipump,NA,36
+449,Mountain Pump,NA,36
+450,Taillights - Battery-Powered,NA,33
+451,Headlights - Dual-Beam,NA,33
+452,Headlights - Weatherproof,NA,33
+453,"Men's Sports Shorts, M",Black,22
+454,"Men's Sports Shorts, L",Black,22
+455,"Men's Sports Shorts, XL",Black,22
+456,"Women's Tights, S",Black,24
+457,"Women's Tights, M",Black,24
+458,"Women's Tights, L",Black,24
+459,"Men's Bib-Shorts, S",Multi,18
+460,"Men's Bib-Shorts, M",Multi,18
+461,"Men's Bib-Shorts, L",Multi,18
+462,"Half-Finger Gloves, S",Black,20
+463,"Half-Finger Gloves, S",Black,20
+464,"Half-Finger Gloves, M",Black,20
+465,"Half-Finger Gloves, M",Black,20
+466,"Half-Finger Gloves, L",Black,20
+467,"Half-Finger Gloves, L",Black,20
+468,"Full-Finger Gloves, S",Black,20
+469,"Full-Finger Gloves, M",Black,20
+470,"Full-Finger Gloves, L",Black,20
+471,"Classic Vest, S",Blue,25
+472,"Classic Vest, M",Blue,25
+473,"Classic Vest, L",Blue,25
+474,"Women's Mountain Shorts, S",Black,22
+475,"Women's Mountain Shorts, M",Black,22
+476,"Women's Mountain Shorts, L",Black,22
+477,Water Bottle - 30 oz.,NA,28
+478,Mountain Bottle Cage,NA,28
+479,Road Bottle Cage,NA,28
+480,Patch Kit/8 Patches,NA,37
+481,"Racing Socks, M",White,23
+482,"Racing Socks, L",White,23
+483,Hitch Rack - 4-Bike,NA,26
+484,Bike Wash - Dissolver,NA,29
+485,Fender Set - Mountain,NA,30
+486,All-Purpose Bike Stand,NA,27
+487,Hydration Pack - 70 oz.,Silver,32
+488,"Short-Sleeve Classic Jersey, S",Yellow,21
+489,"Short-Sleeve Classic Jersey, M",Yellow,21
+490,"Short-Sleeve Classic Jersey, L",Yellow,21
+491,"Short-Sleeve Classic Jersey, XL",Yellow,21
+492,"HL Touring Frame - Yellow, 60",Yellow,16
+493,"LL Touring Frame - Yellow, 62",Yellow,16
+494,"HL Touring Frame - Yellow, 46",Yellow,16
+495,"HL Touring Frame - Yellow, 50",Yellow,16
+496,"HL Touring Frame - Yellow, 54",Yellow,16
+497,"HL Touring Frame - Blue, 46",Blue,16
+498,"HL Touring Frame - Blue, 50",Blue,16
+499,"HL Touring Frame - Blue, 54",Blue,16
+500,"HL Touring Frame - Blue, 60",Blue,16
+501,Rear Derailleur,Silver,9
+502,"LL Touring Frame - Blue, 50",Blue,16
+503,"LL Touring Frame - Blue, 54",Blue,16
+504,"LL Touring Frame - Blue, 58",Blue,16
+505,"LL Touring Frame - Blue, 62",Blue,16
+506,"LL Touring Frame - Yellow, 44",Yellow,16
+507,"LL Touring Frame - Yellow, 50",Yellow,16
+508,"LL Touring Frame - Yellow, 54",Yellow,16
+509,"LL Touring Frame - Yellow, 58",Yellow,16
+510,"LL Touring Frame - Blue, 44",Blue,16
+511,"ML Mountain Frame-W - Silver, 40",Silver,12
+512,"ML Mountain Frame-W - Silver, 42",Silver,12
+513,"ML Mountain Frame-W - Silver, 46",Silver,12
+514,Rear Brakes,Silver,6
+515,LL Mountain Seat/Saddle,NA,15
+516,ML Mountain Seat/Saddle,NA,15
+517,HL Mountain Seat/Saddle,NA,15
+518,LL Road Seat/Saddle,NA,15
+519,ML Road Seat/Saddle,NA,15
+520,HL Road Seat/Saddle,NA,15
+521,LL Touring Seat/Saddle,NA,15
+522,ML Touring Seat/Saddle,NA,15
+523,HL Touring Seat/Saddle,NA,15
+524,"LL Mountain Frame - Silver, 42",Silver,12
+525,"LL Mountain Frame - Silver, 44",Silver,12
+526,"LL Mountain Frame - Silver, 48",Silver,12
+527,"LL Mountain Frame - Silver, 52",Silver,12
+528,Mountain Tire Tube,NA,37
+529,Road Tire Tube,NA,37
+530,Touring Tire Tube,NA,37
+531,"LL Mountain Frame - Black, 42",Black,12
+532,"LL Mountain Frame - Black, 44",Black,12
+533,"LL Mountain Frame - Black, 48",Black,12
+534,"LL Mountain Frame - Black, 52",Black,12
+535,LL Mountain Tire,NA,37
+536,ML Mountain Tire,NA,37
+537,HL Mountain Tire,NA,37
+538,LL Road Tire,NA,37
+539,ML Road Tire,NA,37
+540,HL Road Tire,NA,37
+541,Touring Tire,NA,37
+542,LL Mountain Pedal,Silver/Black,13
+543,ML Mountain Pedal,Silver/Black,13
+544,HL Mountain Pedal,Silver/Black,13
+545,LL Road Pedal,Silver/Black,13
+546,ML Road Pedal,Silver/Black,13
+547,HL Road Pedal,Silver/Black,13
+548,Touring Pedal,Silver/Black,13
+549,"ML Mountain Frame-W - Silver, 38",Silver,12
+550,"LL Mountain Frame - Black, 40",Black,12
+551,"LL Mountain Frame - Silver, 40",Silver,12
+552,Front Derailleur,Silver,9
+553,LL Touring Handlebars,NA,4
+554,HL Touring Handlebars,NA,4
+555,Front Brakes,Silver,6
+556,LL Crankset,Black,8
+557,ML Crankset,Black,8
+558,HL Crankset,Black,8
+559,Chain,Silver,7
+560,"Touring-2000 Blue, 60",Blue,3
+561,"Touring-1000 Yellow, 46",Yellow,3
+562,"Touring-1000 Yellow, 50",Yellow,3
+563,"Touring-1000 Yellow, 54",Yellow,3
+564,"Touring-1000 Yellow, 60",Yellow,3
+565,"Touring-3000 Blue, 54",Blue,3
+566,"Touring-3000 Blue, 58",Blue,3
+567,"Touring-3000 Blue, 62",Blue,3
+568,"Touring-3000 Yellow, 44",Yellow,3
+569,"Touring-3000 Yellow, 50",Yellow,3
+570,"Touring-3000 Yellow, 54",Yellow,3
+571,"Touring-3000 Yellow, 58",Yellow,3
+572,"Touring-3000 Yellow, 62",Yellow,3
+573,"Touring-1000 Blue, 46",Blue,3
+574,"Touring-1000 Blue, 50",Blue,3
+575,"Touring-1000 Blue, 54",Blue,3
+576,"Touring-1000 Blue, 60",Blue,3
+577,"Touring-2000 Blue, 46",Blue,3
+578,"Touring-2000 Blue, 50",Blue,3
+579,"Touring-2000 Blue, 54",Blue,3
+580,"Road-350-W Yellow, 40",Yellow,2
+581,"Road-350-W Yellow, 42",Yellow,2
+582,"Road-350-W Yellow, 44",Yellow,2
+583,"Road-350-W Yellow, 48",Yellow,2
+584,"Road-750 Black, 58",Black,2
+585,"Touring-3000 Blue, 44",Blue,3
+586,"Touring-3000 Blue, 50",Blue,3
+587,"Mountain-400-W Silver, 38",Silver,1
+588,"Mountain-400-W Silver, 40",Silver,1
+589,"Mountain-400-W Silver, 42",Silver,1
+590,"Mountain-400-W Silver, 46",Silver,1
+591,"Mountain-500 Silver, 40",Silver,1
+592,"Mountain-500 Silver, 42",Silver,1
+593,"Mountain-500 Silver, 44",Silver,1
+594,"Mountain-500 Silver, 48",Silver,1
+595,"Mountain-500 Silver, 52",Silver,1
+596,"Mountain-500 Black, 40",Black,1
+597,"Mountain-500 Black, 42",Black,1
+598,"Mountain-500 Black, 44",Black,1
+599,"Mountain-500 Black, 48",Black,1
+600,"Mountain-500 Black, 52",Black,1
+601,LL Bottom Bracket,NA,5
+602,ML Bottom Bracket,NA,5
+603,HL Bottom Bracket,NA,5
+604,"Road-750 Black, 44",Black,2
+605,"Road-750 Black, 48",Black,2
+606,"Road-750 Black, 52",Black,2
